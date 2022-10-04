@@ -1,5 +1,7 @@
 {
-    "Project": {
-      "name": {}
+  "Project": {
+    "name": {
+      "string": ["Thor", "Loki"]
     }
+  }
 }
